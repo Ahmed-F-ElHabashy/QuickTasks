@@ -1,2 +1,2 @@
-# SimpleTasks
-Just for Simple Tasks
+# Quick Tasks Repo ..
+Just for Quick Tasks ONLY.
